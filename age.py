@@ -14,8 +14,7 @@ elif driving == '沒有' :
         print('菜雞一枚')
     else :
         print ('乖狗狗')
-else:
-    print('只能輸入有或沒有')                
+               
 
     
 
